@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "^5.0.1",
+    "jsdom": "^20.0.1"
+  }
+}

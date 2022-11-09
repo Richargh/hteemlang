@@ -1,0 +1,20 @@
+# Blocklist files/folders in same directory as the .gitignore file
+/*
+
+# But not these files
+
+## Git
+!.gitignore
+
+## Node
+!package.json
+!package-lock.json
+
+## README
+!README.md
+
+## Src
+!src/
+
+## Tests
+!test/
